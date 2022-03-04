@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69927222493",
+    "project_id": "lets-konek",
+    "storage_bucket": "lets-konek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69927222493:android:1c8f3b29222ef3e86b6f34",
+        "android_client_info": {
+          "package_name": "com.example.conek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69927222493-eek74rvn7hbn30istrcaq2tj8d9s9uks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5nXfxF6ma_KH2UqYm3suBkjNMzimw-p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69927222493-eek74rvn7hbn30istrcaq2tj8d9s9uks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
